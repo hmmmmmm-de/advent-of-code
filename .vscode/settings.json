@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[rust]": {
+        "editor.defaultFormatter": "jinxdash.prettier-rust"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    }
+}
