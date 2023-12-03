@@ -6,5 +6,6 @@
     },
     "[toml]": {
         "editor.defaultFormatter": "tamasfe.even-better-toml"
-    }
+    },
+    "editor.rulers": [80]
 }
