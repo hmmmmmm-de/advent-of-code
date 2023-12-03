@@ -11,11 +11,12 @@ structured in a straightforward and accessible manner to facilitate a smooth ent
 -   `cd` into that folder e.g. like `cd ~/git/workspace/advent-of-code/Rust/2023/yourgithubname`
 -   create a new project for the day e.g. like `cargo new day-01`
 
-## build or run
+## build, run or test
 
 -   `cd` into a day e.g. like `cd ~/git/workspace/advent-of-code/Rust/2023/yourgithubname/day-01`
 -   build via `cargo build` (compiles your code and checks for errors)
--   run via `cargo run` (runs cour code and prints given output)
+-   test via `cargo test` (runs your own written tests of your code)
+-   run via `cargo run` (runs your code and prints given output)
 
 ## linting
 
