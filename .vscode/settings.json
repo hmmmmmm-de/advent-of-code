@@ -8,5 +8,7 @@
         "editor.defaultFormatter": "tamasfe.even-better-toml"
     },
     "editor.rulers": [80],
-    "rust-analyzer.check.command": "clippy"
+    "rust-analyzer.check.command": "clippy",
+    "explorer.fileNesting.enabled": true,
+    "explorer.compactFolders": false
 }
