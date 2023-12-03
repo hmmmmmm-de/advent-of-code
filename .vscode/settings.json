@@ -7,5 +7,6 @@
     "[toml]": {
         "editor.defaultFormatter": "tamasfe.even-better-toml"
     },
-    "editor.rulers": [80]
+    "editor.rulers": [80],
+    "rust-analyzer.check.command": "clippy"
 }
